@@ -1,0 +1,10 @@
+{
+    "name": "ChatApp",
+    "version": "1.0.0",
+    "description": "Chat Web App",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest"
+    },
+    "author": "DianKurniaty"
+}
